@@ -139,3 +139,10 @@ ShadowLink was tested with a 4-phase penetration test using Nmap and custom scri
 - Canary tokens for honey-data exfiltration alerts
 
 ---
+
+<img width="1841" height="832" alt="Screenshot from 2026-04-15 22-52-15" src="https://github.com/user-attachments/assets/c8574f4d-cde0-44db-9747-4b48232ba0c3" />
+
+<img width="1609" height="747" alt="Screenshot from 2026-04-15 22-53-14" src="https://github.com/user-attachments/assets/3895791f-b7aa-424a-b72e-1f812c78522a" />
+
+<img width="1829" height="749" alt="Screenshot from 2026-04-15 22-59-07" src="https://github.com/user-attachments/assets/be11042b-6a2d-45b2-a186-cb86ab485786" />
+
